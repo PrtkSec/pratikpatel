@@ -75,7 +75,7 @@ a {
 .bb-outer,
 .bb-content,
 .bb-inner {
-    background: no-repeat center/100% url("/images/sunset.jpg");
+    background: no-repeat center/100% url("https://github.com/PrtkSec/pratikpatel/tree/master/images/sunset.jpg");
 }
 
 .header-text h2 {

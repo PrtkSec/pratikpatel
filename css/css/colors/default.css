@@ -1,0 +1,33 @@
+
+
+.btn-custom,.btn-custom:hover {
+    /* border: 1px solid #26a69a; */
+    border: 1px solid #000000de;
+}
+.pace,.title-border::before,.title-border::after{
+    /* border: 2px solid #26a69a; */
+    border: 2px solid #000000de;
+}
+.navbar,.title-border,.rs-round,.time-line:before,.btn-custom,.btn-custom:hover,.pace .pace-progress {
+    /* background-color: #26a69a; */
+    background-color: #000000de;
+}
+
+.presonal-inform i,.skill i,.rex-item h3,#work  .lrs-list-protfolio .fil-cat.active,
+#work .lrs-projects .lrs-project .lrs-project-content,.section-title h2,.pace .pace-progress {
+    /* color: #26a69a; */
+    color: #000000de;
+}
+
+#work  .lrs-list-protfolio .fil-cat.active {
+    /* border-bottom: 2px solid #26a69a; */
+    border-bottom: 2px solid #000000de;
+}
+
+.form-control:focus {
+    /* border-color:#26a69a;
+    box-shadow: #26a69a; */
+    border-color: #000000de;
+    box-shadow:  #000000de;
+}
+
